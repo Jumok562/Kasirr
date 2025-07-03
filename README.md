@@ -1,0 +1,2 @@
+# Kasirr
+Buat ngitung penjualan
